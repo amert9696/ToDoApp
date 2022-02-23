@@ -4,7 +4,7 @@ import UIKit
 class ToDoListViewController: UITableViewController {
 
     
-    var itemArray = ["Find Mike","Buy Eggos","Destroy Demogorgon"]
+    var itemArray = ["Find Mike","Buy Eggos","Destroy Demogorgon","mert"]
     
     
     override func viewDidLoad() {
