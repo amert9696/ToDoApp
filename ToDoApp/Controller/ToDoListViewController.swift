@@ -13,7 +13,7 @@ class ToDoListViewController: UITableViewController {
         super.viewDidLoad()
         
         let newItem = Item()
-        newItem.title = "Find Mike"
+        newItem.title = "Find Mikerrrrrrrrrrrrr"
         itemArray.append(newItem)
         
 //        let newItem2 = Item()
