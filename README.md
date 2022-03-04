@@ -1,6 +1,6 @@
 # ToDoApp
 
-Core Data and Realm.
+Core Data
 
 App where you can follow me as I learn...
 
